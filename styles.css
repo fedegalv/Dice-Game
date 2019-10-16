@@ -1,0 +1,27 @@
+body{
+  background-color: #EEEDE5;
+}
+
+/* TITTLE */
+.title-division{
+  margin-top: 80px;
+}
+.dice-picture{
+  width: 30%;
+  margin-left: 200px;
+}
+.title-text{
+  font-family: 'Lobster', cursive;
+  font-size: 6rem;
+  color: #242B23;
+
+}
+
+/* Main Body */
+.player-division{
+  margin-top: 150px;
+}
+.player-text{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
