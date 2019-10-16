@@ -1,7 +1,6 @@
 body{
   background-color: #EEEDE5;
 }
-
 /* TITTLE */
 .title-division{
   margin-top: 80px;
@@ -24,4 +23,12 @@ body{
 .player-text{
   text-align: center;
   font-family: 'Lobster', cursive;
+}
+.player-dice{
+  margin: 25px auto 0;
+  width: 35%;
+}
+.btn{
+  margin: 40px auto 0;
+  background-color: #999999;
 }
